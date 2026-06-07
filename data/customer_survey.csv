@@ -1,0 +1,4 @@
+customer_id,name,email,region,rating,comments,review_date
+1,John Doe,john.doe@example.com,North,5,Great product!,2024-01-01
+2,Jane Smith,jane.smith@example.com,West,4,Fast delivery.,2024-01-02
+3,Emily Davis,emily.davis@example.com,South,3,Average quality.,2024-01-03

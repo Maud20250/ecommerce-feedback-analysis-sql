@@ -1,0 +1,17 @@
+[
+    {
+        "customer_id": 1,
+        "rating": 5,
+        "comments": "Excellent service!"
+    },
+    {
+        "customer_id": 2,
+        "rating": 4,
+        "comments": "Good experience overall."
+    },
+    {
+        "customer_id": 3,
+        "rating": 2,
+        "comments": "Late delivery."
+    }
+]
