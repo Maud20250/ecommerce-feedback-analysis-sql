@@ -23,6 +23,5 @@ for an e-commerce company to improve product quality and customer satisfaction.
 - Customer sentiment classification (Positive/Neutral/Negative)
 - Sales trends over time by category
 
-## Grade
-100% — Willis College, Database & SQL Course
-
+## AUTHOR
+Jean_Billa
